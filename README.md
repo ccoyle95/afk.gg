@@ -1,2 +1,2 @@
-# afk.gg
-Website for social gamers.
+# ctf.gg
+Capture The Friend. Website for social gamers.
