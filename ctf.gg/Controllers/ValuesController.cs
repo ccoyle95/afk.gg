@@ -13,7 +13,7 @@ namespace ctf.gg.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "REKT", "NERDS",,"TEST" };
+            return new string[] { "REKT", "NERDS", "TEST" };
         }
 
         // GET api/values/5
