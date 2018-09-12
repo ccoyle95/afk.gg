@@ -461,3 +461,7 @@ ASALocalRun/
 
 
 # End of https://www.gitignore.io/api/csharp,aspnetcore
+*.ide-wal
+*.ide-shm
+*.cache
+*.props
