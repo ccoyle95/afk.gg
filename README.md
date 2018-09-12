@@ -1,2 +1,2 @@
-# afk.gg
+# ctf.gg
 Website for social gamers.
